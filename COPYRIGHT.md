@@ -1,1 +1,1 @@
-Copyright (c) 2016, David Jonathan Ross <david@djr.com>
+Copyright (c) 2020, Measure + Fit <micah@measureandfit.co>
