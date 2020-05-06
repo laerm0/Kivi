@@ -17,7 +17,7 @@ Tag = opsz;
 },
 {
 name = note;
-value = "offset curve 45 36 make stroke ~auto stroke~ keep compatible";
+value = "72pt offset curve 45 36 make stroke ~auto stroke~ keep compatible\01210pt offset curve 90 20 make stroke ~auto stroke~ keep compatible";
 }
 );
 date = "2020-04-30 17:28:11 +0000";
